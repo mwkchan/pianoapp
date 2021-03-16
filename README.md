@@ -1,3 +1,3 @@
 # pianoapp
-Piano App for HTML and CSS debug exercise
+This is the Piano App for HTML and CSS debug exercise
 
